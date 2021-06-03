@@ -4,11 +4,7 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 I have used the Credit Card Approval dataset from the UCI Machine Learning Repository.
 
-Dependencies :
-
-sklearn
-numpy
-pandas
+Dependencies :sklearn , numpy , pandas.
 
 The structure of this notebook is as follows:
 
